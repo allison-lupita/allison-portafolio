@@ -25,7 +25,7 @@ Soy una persona metódica y persistente que disfruta programar con claridad, org
 ## 🖼️ Capturas del proyecto Sistema de facturación web
 
 **Dashboard general:**
-![Dashboard del sistema](http://localhost/facturacion/public/img/dashboard.php.png)
+![Dashboard del sistema](/img/dashboard.php.png)
 
 **imprision de factura:**
 ![Listado de clientes](http://localhost/facturacion/public/img/verfactura.php.png)
