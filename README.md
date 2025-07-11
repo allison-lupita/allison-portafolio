@@ -20,13 +20,16 @@ Soy una persona metódica y persistente que disfruta programar con claridad, org
 - JSON Formatter / extensiones de Chrome
 
 ---
+## 📦 Proyectos destacados
 
-## 📂 Proyectos destacados
+## 🖼️ Capturas del proyecto Sistema de facturación web
 
-### 🧾 Sistema de facturación web
-Sistema completo que gestiona clientes, productos, usuarios, facturas y reportes gráficos.
+**Dashboard general:**
+![Dashboard del sistema](http://localhost/facturacion/public/img/dashboard.php.png)
 
-🔗 [Ver proyecto en línea](http://localhost/facturacion/public/img/logo.png)  
+**imprision de factura:**
+![Listado de clientes](http://localhost/facturacion/public/img/verfactura.php.png)
+
 
 ---
 
