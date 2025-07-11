@@ -26,7 +26,7 @@ Soy una persona metódica y persistente que disfruta programar con claridad, org
 ### 🧾 Sistema de facturación web
 Sistema completo que gestiona clientes, productos, usuarios, facturas y reportes gráficos.
 
-🔗 [Ver proyecto en línea](http://localhost/facturacion/views/usuarios/listar.php)  
+🔗 [Ver proyecto en línea](http://localhost/facturacion/public/img/logo.png)  
 
 ---
 
