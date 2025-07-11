@@ -30,7 +30,7 @@ Soy una persona metódica y persistente que disfruta programar con claridad, org
 
 ### 📁 Vista de factura
 
-![Factura generada](https://github.com/AllisonMilagros/facturacion-web)
+![Factura generada](http://localhost/facturacion/views/usuarios/listar.php)
 
 
 
