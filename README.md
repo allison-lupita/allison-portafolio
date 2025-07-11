@@ -28,7 +28,7 @@ Soy una persona metódica y persistente que disfruta programar con claridad, org
 ![Dashboard del sistema](public/img/dashboard.php.png)
 
 **imprision de factura:**
-![Listado de clientes](http://localhost/facturacion/public/img/verfactura.php.png)
+![Listado de clientes](http://localhost/facturacion/public/img/verfactura.png)
 
 
 ---
