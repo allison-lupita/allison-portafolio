@@ -30,7 +30,7 @@ Soy una persona metódica y persistente que disfruta programar con claridad, org
 
 ### 📁 Vista de factura
 
-![Factura generada](http://localhost/facturacion/public/img/dashboard.png)
+![Factura generada](Documentos/dashboard.png)
 
 
 
