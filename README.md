@@ -26,26 +26,19 @@ Soy una persona metódica y persistente que disfruta programar con claridad, org
 ### 🧾 Sistema de facturación web
 Sistema completo que gestiona clientes, productos, usuarios, facturas y reportes gráficos.
 
-🔗 [Ver proyecto en línea](https://abcfacturas.infinityfreeapp.com/facturacion)  
+🔗 [Ver proyecto en línea](http://localhost/facturacion/views/usuarios/listar.php)  
 📁 [Ver código fuente](https://github.com/AllisonMilagros/facturacion-web)
 
 ---
 
-### 📋 Panel administrativo con autenticación
-Control de acceso por roles, validación de sesiones, CRUD de registros y diseño responsive con Bootstrap.
-
-📁 [Ver código fuente](https://github.com/AllisonMilagros/panel-administrativo)
-
----
 
 ## 📬 Contacto
 
 ¿Te interesa colaborar, conocer más o darme feedback?  
 Puedes contactarme por:
 
-- ✉️ **Correo:** allison.milagros@example.com  
+- ✉️ **Correo:** allisonmorerivas551@gmail.com  
 - 🌐 [GitHub](https://github.com/AllisonMilagros)  
-- 💼 LinkedIn: *(Agrega tu enlace si tienes perfil)*
 
 ---
 
