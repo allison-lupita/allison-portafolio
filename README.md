@@ -20,18 +20,22 @@ Soy una persona metódica y persistente que disfruta programar con claridad, org
 - JSON Formatter / extensiones de Chrome
 
 ---
-## 📦 Proyectos destacados
+## 📂 Proyectos destacados
 
-## 🖼️ Capturas del proyecto Sistema de facturación web
+### 🧾 Sistema de facturación web
+Sistema completo que gestiona clientes, productos, usuarios, facturas y reportes gráficos.
 
-### 🧾 Panel principal
+🔗 [Ver proyecto en línea](https://abcfacturas.infinityfreeapp.com/facturacion)  
+📁 [Ver código fuente](https://github.com/AllisonMilagros/facturacion-web)
 
-![Dashboard principal](img/dashboard.png)
+---
 
-### 📁 Vista de factura
+### 📋 Panel administrativo con autenticación
+Control de acceso por roles, validación de sesiones, CRUD de registros y diseño responsive con Bootstrap.
 
-![Factura generada](http://localhost/facturacion/views/usuarios/listar.php)
+📁 [Ver código fuente](https://github.com/AllisonMilagros/panel-administrativo)
 
+---
 
 
 ---
