@@ -24,11 +24,14 @@ Soy una persona metódica y persistente que disfruta programar con claridad, org
 
 ## 🖼️ Capturas del proyecto Sistema de facturación web
 
-**Dashboard general:**
-![Dashboard del sistema](http://localhost/facturacion/public/img/dashboard.png)
+### 🧾 Panel principal
 
-**imprision de factura:**
-![Listado de clientes](http://localhost/facturacion/public/img/verfactura.png)
+![Dashboard principal](img/dashboard.png)
+
+### 📁 Vista de factura
+
+![Factura generada](img/verfactura.png)
+
 
 
 ---
