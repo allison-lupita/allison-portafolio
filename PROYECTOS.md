@@ -1,22 +1,31 @@
-🛠 Mis Proyectos en Desarrollo
-Cada uno de estos proyectos refleja mi proceso de aprendizaje como estudiante de desarrollo backend. 
-No comparto los enlaces de los sistemas por seguridad, pero sí explico claramente qué hacen y cómo los he construido.
+# 🛠️ Portafolio de Proyectos
 
-📄 Sistema de Facturación Online
-- Propósito: Gestionar usuarios, clientes, productos y facturas.
-- Tecnologías: Laravel (MVC, Eloquent ORM), MySQL, Bootstrap, Select2.
-- Funciones clave: CRUD completo, relaciones uno-a-muchos, gráficos con JpGraph.
-- Lo que aprendí: Depuración de errores MySQL, regeneración de logs, organización de carpetas Laravel, mejora de formularios.
+Este espacio reúne los proyectos que he desarrollado como parte de mi formación en desarrollo backend. Cada propuesta técnica se ha realizado aplicando buenas prácticas, resolución de problemas reales, y herramientas actualizadas.POR RAZONES DE SEGURIDAD , LOS SISTEMAS NO SE ENCUENTRAN DISPONIBLES PÚBLICAMENTE, pero en cada sección presento una descripción clara y detallada de su funcionalidad, arquitectura y aprendizajes adquiridos.
 
-📊 Panel de Estadísticas Simuladas
-- Propósito: Visualizar datos con enfoque gráfico y claro.
-- Tecnologías: JpGraph, PHP puro, MySQL con datos simulados.
-- Funciones clave: Filtros por fecha, gráficos dinámicos, integración con Select2.
-- Lo que aprendí: Manejo de fechas, estructuras SQL optimizadas, visualización efectiva.
+---
 
-📁 Prácticas de Bases de Datos
-- Propósito: Profundizar relaciones muchos-a-muchos y diseño de base de datos.
-- Tecnologías: MySQL, HeidiSQL, phpMyAdmin.
-- Funciones clave: Scripts SQL estructurados, manejo de claves foráneas, tipos de datos DECIMAL.
-- Lo que aprendí: Diseño profesional de DB, documentación con ejemplos, depuración avanzada.
+## 📂 Índice de Proyectos
 
+Haz clic en cada enlace para consultar la descripción completa de cada sistema:
+
+- [🧾 Sistema de Facturación Online](facturacion.md)
+
+> Próximamente se añadirán más secciones para proyectos como:
+> -
+> - 
+
+---
+
+## ✨ Enfoque del Portafolio
+
+Cada uno de estos desarrollos fue concebido con el objetivo de:
+
+- Consolidar mis conocimientos en tecnologías como Laravel, MySQL y Bootstrap
+- Aplicar conceptos clave como relaciones entre tablas, estructura MVC, ORM, y diseño accesible
+- Documentar el proceso técnico y destacar aprendizajes significativos
+- Fortalecer una base sólida para el desarrollo de sistemas escalables y profesionales
+
+---
+
+Gracias por visitar mi portafolio.
+Este espacio continuará evolucionando conforme siga practicando y creciendo como desarrolladora backend.
